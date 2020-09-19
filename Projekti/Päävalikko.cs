@@ -8,6 +8,7 @@ namespace Projekti
 {
     class Päävalikko
     {
+        // Kyllä osaa vituttaa
         public void Aloitusvalikko()
         {
             // Päävalikon käynnistyksen ehto
