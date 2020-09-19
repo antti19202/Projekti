@@ -10,8 +10,10 @@ namespace Projekti
     {
         static void Main(string[] args)
         {
+            // Uusi class Päävalikko
             Päävalikko päävalikko = new Päävalikko();
 
+            // Käynnistää päävalikon
             päävalikko.Aloitusvalikko();
         }
     }
