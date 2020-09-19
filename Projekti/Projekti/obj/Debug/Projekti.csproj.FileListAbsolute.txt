@@ -1,0 +1,7 @@
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\bin\Debug\Projekti.exe.config
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\bin\Debug\Projekti.exe
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\bin\Debug\Projekti.pdb
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\obj\Debug\Projekti.csprojAssemblyReference.cache
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\obj\Debug\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\obj\Debug\Projekti.exe
+C:\Users\antti\Desktop\Projekti\Projekti\Projekti\obj\Debug\Projekti.pdb
